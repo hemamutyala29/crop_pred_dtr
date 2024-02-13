@@ -1,6 +1,8 @@
 CROP YIELD PREDICTION USING MACHINE LEARNING
 
-Selected Models: Decision Tree Regressor, Linear Regressor
+Models Used: Decision Tree Regressor, Linear Regressor
+
+Selected Model: Decision Tree Regressor
 
 Decision Tree Regressor:Decision trees are another popular model for crop yield prediction, especially when the relationship 
                         between the input variables and the output variable is complex and non-linear.
